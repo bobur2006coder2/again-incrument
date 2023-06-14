@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(23, 21, 21);
+   
+
+}
+
+.num{
+    color: white;
+    margin: 50px;
+}
+
+button{
+    width: 150px;
+    height: 55px;
+    border-radius: 10px;
+    text-transform: capitalize;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+.one{
+    background-color: green;
+}
+
+.two{
+    background-color: red;
+}
+h2{
+    font-size: 45px;
+}
